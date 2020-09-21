@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🧑🏼‍💻 I'm a Frontend Engineer, what I have learned and used so far:
-  1. Frontend : ReactJS, React Native, NextJS, SCSS, Styled Component, VueJS, GraphQL(Apollo), Storybook, REST
-  2. Backend: Laravel(Lumen), NodeJS/Express (I'm new to this!), GraphQL(Apollo)
+  1. Frontend : ReactJS, React Native, NextJS, Sass, Styled Component, GraphQL, Storybook, VueJS, REST
+  2. Backend: Laravel(Lumen), NodeJS/Express (I'm new to this!), GraphQL
   3. I learn unit and integration testing recently, and use jest and react-testing-library for frontend web!
 - ⚡ Besides programming, I like playing video games and watching movies!
 - 📫 How to reach me: faizrekatama@gmail.com
